@@ -1,0 +1,15 @@
+c:\GitHub Repositories\hello-c-sharp\bin\Debug\net8.0\hello-c-sharp.exe
+C:\GitHub Repositories\hello-c-sharp\bin\Debug\net8.0\hello-c-sharp.deps.json
+C:\GitHub Repositories\hello-c-sharp\bin\Debug\net8.0\hello-c-sharp.runtimeconfig.json
+c:\GitHub Repositories\hello-c-sharp\bin\Debug\net8.0\hello-c-sharp.dll
+c:\GitHub Repositories\hello-c-sharp\bin\Debug\net8.0\hello-c-sharp.pdb
+c:\GitHub Repositories\hello-c-sharp\obj\Debug\net8.0\hello-c-sharp.GeneratedMSBuildEditorConfig.editorconfig
+c:\GitHub Repositories\hello-c-sharp\obj\Debug\net8.0\hello-c-sharp.AssemblyInfoInputs.cache
+c:\GitHub Repositories\hello-c-sharp\obj\Debug\net8.0\hello-c-sharp.AssemblyInfo.cs
+c:\GitHub Repositories\hello-c-sharp\obj\Debug\net8.0\hello-c-sharp.csproj.CoreCompileInputs.cache
+c:\GitHub Repositories\hello-c-sharp\obj\Debug\net8.0\hello-c-sharp.sourcelink.json
+c:\GitHub Repositories\hello-c-sharp\obj\Debug\net8.0\hello-c-sharp.dll
+c:\GitHub Repositories\hello-c-sharp\obj\Debug\net8.0\refint\hello-c-sharp.dll
+c:\GitHub Repositories\hello-c-sharp\obj\Debug\net8.0\hello-c-sharp.pdb
+C:\GitHub Repositories\hello-c-sharp\obj\Debug\net8.0\hello-c-sharp.genruntimeconfig.cache
+C:\GitHub Repositories\hello-c-sharp\obj\Debug\net8.0\ref\hello-c-sharp.dll
